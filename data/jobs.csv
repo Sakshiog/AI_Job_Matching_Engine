@@ -1,0 +1,101 @@
+job_id,job_title,company,required_skills,education,experience,location,work_mode,salary,category
+J001,AI Developer,TechNova,"Python|Machine Learning|Pandas|Scikit-learn|SQL",B.Tech,0-2,Jaipur,Hybrid,500000,AI/ML
+J002,Data Analyst,DataWorks,"Python|SQL|Excel|Power BI|Statistics",B.Tech,0-2,Delhi,Remote,450000,Data Analytics
+J003,Python Developer,CodeCraft,"Python|Django|SQL|REST API|Git",B.Tech,1-3,Noida,On-site,600000,Software Development
+J004,Frontend Developer,WebSphere,"HTML|CSS|JavaScript|React|Git",B.Tech,0-2,Gurugram,Hybrid,550000,Web Development
+J005,Machine Learning Engineer,AI Labs,"Python|TensorFlow|PyTorch|Machine Learning|Deep Learning",B.Tech,1-3,Bengaluru,Remote,850000,AI/ML
+J006,Backend Developer,CloudTech,"Python|FastAPI|PostgreSQL|Docker|AWS",B.Tech,1-3,Delhi,Hybrid,700000,Software Development
+J007,Data Scientist,InsightCorp,"Python|SQL|Pandas|Machine Learning|Statistics",B.Tech,1-3,Hyderabad,Remote,750000,Data Science
+J008,NLP Engineer,LanguageAI,"Python|NLP|spaCy|Transformers|PyTorch",B.Tech,1-3,Bengaluru,Hybrid,900000,AI/ML
+J009,Java Developer,EnterpriseSoft,"Java|Spring Boot|SQL|REST API|Git",B.Tech,1-3,Noida,On-site,650000,Software Development
+J010,Full Stack Developer,DigitalWorks,"React|Node.js|JavaScript|MongoDB|Express",B.Tech,1-3,Jaipur,Hybrid,650000,Web Development
+J011,AI Engineer,VisionTech,"Python|Computer Vision|OpenCV|PyTorch|Deep Learning",B.Tech,1-3,Gurugram,On-site,800000,AI/ML
+J012,Business Analyst,BizSolutions,"SQL|Excel|Power BI|Tableau|Statistics",B.Tech,1-3,Bengaluru,Hybrid,650000,Business Analytics
+J013,Software Engineer,DevCore,"Java|C++|Python|DSA|Git",B.Tech,0-2,Delhi,On-site,550000,Software Development
+J014,Cloud Developer,CloudWorks,"Python|AWS|Docker|Kubernetes|Linux",B.Tech,2-4,Delhi,Hybrid,850000,Cloud Computing
+J015,Data Engineer,DataFlow,"Python|SQL|Spark|AWS|ETL",B.Tech,1-3,Hyderabad,Remote,800000,Data Engineering
+J016,Python Developer,PyTech,"Python|Flask|Django|MySQL|REST API",B.Tech,0-2,Jaipur,Remote,550000,Software Development
+J017,ML Engineer,SmartAI,"Python|Scikit-learn|TensorFlow|SQL|Machine Learning",B.Tech,1-3,Bengaluru,Hybrid,800000,AI/ML
+J018,Frontend Developer,UIWorks,"React|JavaScript|TypeScript|HTML|CSS",B.Tech,0-2,Noida,Remote,550000,Web Development
+J019,Data Analyst,AnalyticsPro,"Python|SQL|Tableau|Excel|Power BI",B.Tech,1-3,Gurugram,Hybrid,600000,Data Analytics
+J020,Backend Developer,ServerStack,"Java|Spring Boot|MySQL|Docker|REST API",B.Tech,1-3,Hyderabad,On-site,700000,Software Development
+J021,AI Developer,FutureTech,"Python|Machine Learning|NLP|SQL|Flask",B.Tech,0-2,Gurugram,Remote,650000,AI/ML
+J022,Data Scientist,StatLabs,"Python|Pandas|NumPy|Scikit-learn|Statistics",M.Tech,2-4,Bengaluru,Hybrid,900000,Data Science
+J023,Python Developer,AppWorks,"Python|Django|PostgreSQL|Git|REST API",BCA,1-3,Noida,Hybrid,600000,Software Development
+J024,Computer Vision Engineer,VisionAI,"Python|OpenCV|PyTorch|Computer Vision|Deep Learning",B.Tech,2-4,Hyderabad,Remote,900000,AI/ML
+J025,Full Stack Developer,CodeHub,"React|Node.js|MongoDB|Express|JavaScript",B.Tech,1-3,Delhi,Hybrid,700000,Web Development
+J026,Machine Learning Engineer,NeuralTech,"Python|PyTorch|TensorFlow|Deep Learning|SQL",B.Tech,1-3,Chandigarh,Remote,800000,AI/ML
+J027,Data Analyst,DataVision,"SQL|Python|Excel|Power BI|Tableau",B.Tech,0-2,Jaipur,Hybrid,500000,Data Analytics
+J028,Backend Developer,APIWorks,"Python|FastAPI|PostgreSQL|Docker|REST API",B.Tech,1-3,Gurugram,Remote,700000,Software Development
+J029,React Developer,FrontendPro,"React|JavaScript|TypeScript|Redux|CSS",B.Tech,1-3,Noida,On-site,650000,Web Development
+J030,AI Research Intern,ResearchAI,"Python|Machine Learning|Deep Learning|NLP",B.Tech,0-1,Bengaluru,Hybrid,400000,AI/ML
+J031,Software Developer,TechBridge,"Java|Spring Boot|SQL|Git|REST API",B.Tech,1-3,Delhi,Hybrid,650000,Software Development
+J032,Data Scientist,DataMind,"Python|Machine Learning|Pandas|SQL|Statistics",M.Tech,2-4,Hyderabad,Remote,850000,Data Science
+J033,NLP Developer,TextLabs,"Python|NLP|spaCy|Transformers|Flask",B.Tech,1-3,Bengaluru,Remote,800000,AI/ML
+J034,Python Developer,PySolutions,"Python|Flask|Django|SQL|Git",BCA,0-2,Jaipur,On-site,500000,Software Development
+J035,AI Engineer,SmartVision,"Python|OpenCV|Computer Vision|PyTorch|TensorFlow",B.Tech,1-3,Gurugram,Hybrid,850000,AI/ML
+J036,Data Engineer,PipelineTech,"Python|SQL|ETL|Spark|AWS",B.Tech,2-4,Delhi,Remote,900000,Data Engineering
+J037,Frontend Developer,DesignTech,"HTML|CSS|JavaScript|React|TypeScript",B.Tech,0-2,Jaipur,Hybrid,500000,Web Development
+J038,Cloud Engineer,CloudNova,"AWS|Docker|Kubernetes|Linux|Python",B.Tech,2-4,Bengaluru,On-site,950000,Cloud Computing
+J039,Java Developer,JavaWorks,"Java|Spring|Spring Boot|MySQL|REST API",B.Tech,1-3,Noida,Hybrid,650000,Software Development
+J040,Business Analyst,InsightWorks,"SQL|Excel|Power BI|Tableau|Communication",B.Tech,1-3,Delhi,Remote,650000,Business Analytics
+J041,ML Engineer,DeepTech,"Python|Scikit-learn|PyTorch|Machine Learning|SQL",B.Tech,1-3,Hyderabad,Hybrid,850000,AI/ML
+J042,Python Backend Developer,BackendLabs,"Python|Django|FastAPI|PostgreSQL|Docker",B.Tech,1-3,Gurugram,Remote,750000,Software Development
+J043,Data Analyst,InsightData,"Python|SQL|Statistics|Excel|Tableau",B.Tech,0-2,Chandigarh,Hybrid,500000,Data Analytics
+J044,AI Developer,AIWorks,"Python|Machine Learning|TensorFlow|SQL|Flask",B.Tech,1-3,Jaipur,Remote,700000,AI/ML
+J045,Full Stack Developer,WebStack,"React|Node.js|MongoDB|Express|JavaScript",B.Tech,1-3,Gurugram,Hybrid,750000,Web Development
+J046,Computer Vision Engineer,ImageAI,"Python|OpenCV|PyTorch|Computer Vision|NumPy",M.Tech,2-4,Bengaluru,Remote,950000,AI/ML
+J047,Software Engineer,CodeBase,"C++|Java|Python|DSA|Algorithms",B.Tech,0-2,Delhi,On-site,600000,Software Development
+J048,Data Scientist,MLWorks,"Python|Pandas|NumPy|Machine Learning|SQL",B.Tech,1-3,Noida,Hybrid,800000,Data Science
+J049,DevOps Engineer,DevOpsPro,"AWS|Docker|Kubernetes|Linux|CI/CD",B.Tech,2-4,Hyderabad,Remote,900000,Cloud Computing
+J050,Python Developer,PythonLabs,"Python|Flask|SQL|Pandas|REST API",B.Tech,0-2,Jaipur,Hybrid,550000,Software Development
+J051,AI Developer,InnovateAI,"Python|Machine Learning|Pandas|Scikit-learn|SQL",B.Tech,0-2,Delhi,Hybrid,650000,AI/ML
+J052,Data Analyst,DataPulse,"Python|SQL|Power BI|Excel|Statistics",B.Tech,0-2,Jaipur,Remote,480000,Data Analytics
+J053,Backend Developer,ServerTech,"Python|FastAPI|PostgreSQL|Docker|Git",B.Tech,1-3,Noida,Hybrid,700000,Software Development
+J054,React Developer,WebGen,"React|JavaScript|TypeScript|HTML|CSS",B.Tech,1-3,Gurugram,Remote,650000,Web Development
+J055,Machine Learning Engineer,MLCore,"Python|TensorFlow|PyTorch|Machine Learning|Deep Learning",B.Tech,2-4,Bengaluru,Hybrid,900000,AI/ML
+J056,Java Developer,EnterpriseAI,"Java|Spring Boot|SQL|Docker|REST API",B.Tech,1-3,Delhi,On-site,700000,Software Development
+J057,Data Scientist,DataScienceHub,"Python|Pandas|Machine Learning|SQL|Statistics",M.Tech,2-4,Hyderabad,Remote,900000,Data Science
+J058,NLP Engineer,NLPWorks,"Python|NLP|Transformers|PyTorch|spaCy",B.Tech,1-3,Bengaluru,Hybrid,850000,AI/ML
+J059,Python Developer,PythonTech,"Python|Django|Flask|MySQL|REST API",BCA,0-2,Jaipur,Remote,520000,Software Development
+J060,AI Engineer,FutureAI,"Python|Computer Vision|OpenCV|Deep Learning|PyTorch",B.Tech,1-3,Gurugram,On-site,850000,AI/ML
+J061,Data Engineer,DataPipeline,"Python|SQL|Spark|ETL|AWS",B.Tech,2-4,Delhi,Hybrid,900000,Data Engineering
+J062,Frontend Developer,UIHub,"HTML|CSS|JavaScript|React|Git",B.Tech,0-2,Noida,Remote,500000,Web Development
+J063,Cloud Engineer,CloudFirst,"AWS|Docker|Kubernetes|Linux|Python",B.Tech,2-4,Bengaluru,Hybrid,950000,Cloud Computing
+J064,Software Developer,DevSolutions,"Java|C++|Python|DSA|SQL",B.Tech,0-2,Delhi,On-site,550000,Software Development
+J065,Business Analyst,BusinessTech,"SQL|Excel|Power BI|Tableau|Statistics",B.Tech,1-3,Jaipur,Hybrid,620000,Business Analytics
+J066,ML Engineer,AIResearch,"Python|Scikit-learn|TensorFlow|SQL|Machine Learning",B.Tech,1-3,Hyderabad,Remote,820000,AI/ML
+J067,Python Backend Developer,PyBackend,"Python|FastAPI|Django|PostgreSQL|Docker",B.Tech,1-3,Gurugram,Hybrid,750000,Software Development
+J068,Data Analyst,AnalyticsHub,"Python|SQL|Excel|Tableau|Power BI",B.Tech,0-2,Chandigarh,Remote,500000,Data Analytics
+J069,AI Developer,MachineMind,"Python|Machine Learning|NLP|Flask|SQL",B.Tech,0-2,Jaipur,Hybrid,650000,AI/ML
+J070,Full Stack Developer,FullStackPro,"React|Node.js|MongoDB|Express|JavaScript",B.Tech,1-3,Delhi,Remote,750000,Web Development
+J071,Computer Vision Engineer,VisionWorks,"Python|OpenCV|PyTorch|Computer Vision|Deep Learning",M.Tech,2-4,Bengaluru,Hybrid,950000,AI/ML
+J072,Software Engineer,TechCode,"C++|Java|Python|DSA|Git",B.Tech,0-2,Noida,On-site,600000,Software Development
+J073,Data Scientist,DataAnalytics,"Python|Pandas|NumPy|Machine Learning|SQL",B.Tech,1-3,Gurugram,Remote,820000,Data Science
+J074,DevOps Engineer,CloudDev,"AWS|Docker|Kubernetes|Linux|CI/CD",B.Tech,2-4,Hyderabad,Hybrid,900000,Cloud Computing
+J075,Python Developer,CodePython,"Python|Flask|SQL|Pandas|Git",B.Tech,0-2,Jaipur,Remote,550000,Software Development
+J076,AI Developer,NeuralWorks,"Python|Machine Learning|Pandas|Scikit-learn|SQL",B.Tech,0-2,Gurugram,Hybrid,700000,AI/ML
+J077,Data Analyst,DataMetrics,"Python|SQL|Excel|Power BI|Statistics",B.Tech,0-2,Delhi,Remote,500000,Data Analytics
+J078,Backend Developer,CodeBackend,"Python|FastAPI|PostgreSQL|Docker|REST API",B.Tech,1-3,Jaipur,Hybrid,680000,Software Development
+J079,Frontend Developer,WebTech,"React|JavaScript|TypeScript|HTML|CSS",B.Tech,1-3,Noida,Remote,620000,Web Development
+J080,Machine Learning Engineer,DeepMindTech,"Python|PyTorch|TensorFlow|Deep Learning|Machine Learning",B.Tech,2-4,Bengaluru,Hybrid,950000,AI/ML
+J081,Java Developer,JavaTech,"Java|Spring Boot|SQL|REST API|Docker",B.Tech,1-3,Delhi,On-site,680000,Software Development
+J082,Data Scientist,InsightAI,"Python|Pandas|NumPy|Machine Learning|Statistics",M.Tech,2-4,Hyderabad,Remote,920000,Data Science
+J083,NLP Engineer,LanguageWorks,"Python|NLP|Transformers|spaCy|PyTorch",B.Tech,1-3,Bengaluru,Hybrid,880000,AI/ML
+J084,Python Developer,PyWorld,"Python|Django|Flask|MySQL|Git",BCA,0-2,Jaipur,Remote,530000,Software Development
+J085,AI Engineer,VisionTech,"Python|OpenCV|Computer Vision|PyTorch|TensorFlow",B.Tech,1-3,Gurugram,On-site,880000,AI/ML
+J086,Data Engineer,DataPipelinePro,"Python|SQL|Spark|ETL|AWS",B.Tech,2-4,Delhi,Hybrid,920000,Data Engineering
+J087,Frontend Developer,DesignWorks,"HTML|CSS|JavaScript|React|TypeScript",B.Tech,0-2,Jaipur,Remote,510000,Web Development
+J088,Cloud Engineer,CloudTechPro,"AWS|Docker|Kubernetes|Linux|Python",B.Tech,2-4,Bengaluru,Hybrid,980000,Cloud Computing
+J089,Software Engineer,CodeSystems,"C++|Java|Python|DSA|Algorithms",B.Tech,0-2,Delhi,On-site,620000,Software Development
+J090,Business Analyst,BusinessInsights,"SQL|Excel|Power BI|Tableau|Statistics",B.Tech,1-3,Gurugram,Remote,650000,Business Analytics
+J091,ML Engineer,MachineWorks,"Python|Scikit-learn|PyTorch|Machine Learning|SQL",B.Tech,1-3,Hyderabad,Hybrid,850000,AI/ML
+J092,Python Backend Developer,BackendPro,"Python|Django|FastAPI|PostgreSQL|Docker",B.Tech,1-3,Noida,Remote,760000,Software Development
+J093,Data Analyst,DataExperts,"Python|SQL|Tableau|Excel|Power BI",B.Tech,0-2,Chandigarh,Hybrid,520000,Data Analytics
+J094,AI Developer,SmartTech,"Python|Machine Learning|NLP|SQL|Flask",B.Tech,0-2,Jaipur,Remote,680000,AI/ML
+J095,Full Stack Developer,WebSolutions,"React|Node.js|MongoDB|Express|JavaScript",B.Tech,1-3,Gurugram,Hybrid,780000,Web Development
+J096,Computer Vision Engineer,VisionLabs,"Python|OpenCV|PyTorch|Computer Vision|Deep Learning",M.Tech,2-4,Bengaluru,Remote,980000,AI/ML
+J097,Software Developer,DevTech,"Java|Spring Boot|Python|SQL|Git",B.Tech,1-3,Noida,Hybrid,670000,Software Development
+J098,Data Scientist,DataLabs,"Python|Pandas|Machine Learning|SQL|Statistics",B.Tech,1-3,Delhi,Remote,830000,Data Science
+J099,DevOps Engineer,CloudWorksPro,"AWS|Docker|Kubernetes|Linux|CI/CD",B.Tech,2-4,Hyderabad,Hybrid,930000,Cloud Computing
+J100,Python Developer,PythonWorks,"Python|Flask|SQL|Pandas|REST API",B.Tech,0-2,Jaipur,Hybrid,570000,Software Development

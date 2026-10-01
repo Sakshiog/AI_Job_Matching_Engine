@@ -1,0 +1,60 @@
+candidate_id,name,education,skills,experience,preferred_role,location,work_mode,expected_salary
+C001,Sakshi Yadav,B.Tech CSE,Python|SQL|Machine Learning|Pandas|Scikit-learn,0.0,AI Developer,Jaipur,Hybrid,500000.0
+C002,Rahul Sharma,B.Tech IT,Java|Spring Boot|SQL|REST API,1.0,Software Developer,Delhi,On-site,600000.0
+C003,Priya Singh,B.Tech CSE,Python|Pandas|SQL|Power BI|Excel,0.0,Data Analyst,Jaipur,Remote,450000.0
+C004,Arjun Mehta,B.Tech CSE,React|JavaScript|HTML|CSS|Node.js,2.0,Frontend Developer,Gurugram,Hybrid,700000.0
+C005,Neha Verma,BCA,Python|Django|HTML|CSS|MySQL,1.0,Python Developer,Noida,On-site,550000.0
+C006,Aman Gupta,B.Tech CSE,C++|DSA|Java|SQL,0.0,Software Engineer,Delhi,Hybrid,500000.0
+C007,Ananya Rao,B.Tech AI,Python|Deep Learning|TensorFlow|NLP,1.0,Machine Learning Engineer,Bengaluru,Remote,800000.0
+C008,Rohit Kumar,B.Tech ECE,Python|IoT|C++|Embedded Systems,2.0,IoT Developer,Jaipur,On-site,600000.0
+C009,Simran Kaur,B.Tech CSE,Python|NLP|Machine Learning|Flask,0.0,NLP Developer,Chandigarh,Hybrid,550000.0
+C010,Vikas Patel,MCA,Java|Python|SQL|AWS|Docker,2.0,Backend Developer,Ahmedabad,Remote,750000.0
+C011,Isha Sharma,B.Tech CSE,Excel|SQL|Tableau|Python|Statistics,1.0,Data Analyst,Delhi,Hybrid,500000.0
+C012,Karan Singh,B.Tech IT,Python|Flask|REST API|SQL|Git,1.0,Backend Developer,Jaipur,Hybrid,600000.0
+C013,Pooja Mishra,B.Tech CSE,JavaScript|React|TypeScript|CSS|Git,0.0,Frontend Developer,Noida,Remote,500000.0
+C014,Aditya Jain,B.Tech AI,Python|Machine Learning|Computer Vision|OpenCV,1.0,AI Developer,Gurugram,On-site,750000.0
+C015,Megha Joshi,M.Tech CSE,Python|Deep Learning|PyTorch|NLP|SQL,3.0,ML Engineer,Bengaluru,Hybrid,1000000.0
+C016,Harsh Agarwal,B.Tech CSE,Python|SQL|Flask|Machine Learning|Git,1.0,AI Developer,Delhi,Hybrid,600000.0
+C017,Nikita Sharma,B.Tech IT,Java|Spring Boot|MySQL|REST API|Git,2.0,Backend Developer,Noida,On-site,650000.0
+C018,Deepak Yadav,B.Tech CSE,Python|Pandas|NumPy|SQL|Statistics,1.0,Data Analyst,Jaipur,Remote,480000.0
+C019,Riya Kapoor,B.Tech CSE,React|JavaScript|HTML|CSS|Redux,1.0,Frontend Developer,Gurugram,Hybrid,600000.0
+C020,Manish Kumar,BCA,Python|Django|MySQL|REST API,2.0,Python Developer,Noida,On-site,580000.0
+C021,Tanya Gupta,B.Tech AI,Python|TensorFlow|Keras|Deep Learning|NLP,1.0,Machine Learning Engineer,Bengaluru,Remote,850000.0
+C022,Sahil Khan,B.Tech CSE,C++|Java|DSA|SQL|Git,1.0,Software Engineer,Delhi,Hybrid,550000.0
+C023,Komal Verma,B.Tech CSE,Python|NLP|spaCy|Machine Learning|Flask,1.0,NLP Developer,Chandigarh,Remote,650000.0
+C024,Abhishek Singh,MCA,Java|Spring|AWS|Docker|SQL,3.0,Backend Developer,Bengaluru,Hybrid,850000.0
+C025,Shreya Mehta,B.Tech CSE,SQL|Power BI|Excel|Python|Tableau,1.0,Data Analyst,Jaipur,Remote,520000.0
+C026,Varun Joshi,B.Tech IT,Python|FastAPI|PostgreSQL|Docker|Git,2.0,Backend Developer,Gurugram,Hybrid,700000.0
+C027,Muskan Jain,B.Tech CSE,JavaScript|React|TypeScript|HTML|CSS,1.0,Frontend Developer,Noida,Remote,550000.0
+C028,Ayush Tiwari,B.Tech AI,Python|Computer Vision|OpenCV|PyTorch,2.0,AI Developer,Gurugram,On-site,800000.0
+C029,Palak Saini,B.Tech CSE,Python|SQL|Machine Learning|Scikit-learn,0.0,ML Engineer,Jaipur,Remote,550000.0
+C030,Naman Gupta,B.Tech CSE,Java|Spring Boot|Microservices|Docker|AWS,3.0,Software Developer,Delhi,Hybrid,900000.0
+C031,Ayesha Khan,B.Tech IT,Python|Pandas|SQL|Data Visualization|Statistics,1.0,Data Scientist,Hyderabad,Remote,650000.0
+C032,Ankit Raj,B.Tech CSE,C++|Python|DSA|Algorithms|Git,0.0,Software Engineer,Patna,On-site,450000.0
+C033,Sneha Patel,B.Tech AI,Python|TensorFlow|Computer Vision|OpenCV|Deep Learning,2.0,AI Engineer,Ahmedabad,Hybrid,850000.0
+C034,Raj Malhotra,MCA,Python|Django|REST API|PostgreSQL|Docker,3.0,Python Developer,Delhi,Remote,750000.0
+C035,Kavya Nair,B.Tech CSE,SQL|Python|Tableau|Power BI|Excel,2.0,Business Analyst,Bengaluru,Hybrid,700000.0
+C036,Sameer Khan,B.Tech IT,Java|Spring Boot|SQL|Kafka|Microservices,2.0,Java Developer,Hyderabad,On-site,700000.0
+C037,Divya Sharma,B.Tech CSE,React|JavaScript|Node.js|MongoDB|Express,1.0,Full Stack Developer,Jaipur,Hybrid,650000.0
+C038,Rohan Verma,B.Tech CSE,Python|Machine Learning|SQL|NumPy|Pandas,2.0,Data Scientist,Delhi,Remote,800000.0
+C039,Priyanshu Gupta,B.Tech AI,Python|NLP|Transformers|PyTorch|Machine Learning,2.0,NLP Engineer,Bengaluru,Hybrid,900000.0
+C040,Swati Mishra,BCA,HTML|CSS|JavaScript|React|Git,0.0,Frontend Developer,Jaipur,Remote,450000.0
+C041,Akash Yadav,B.Tech CSE,Python|Flask|SQL|REST API|AWS,1.0,Backend Developer,Noida,Hybrid,600000.0
+C042,Meenal Singh,B.Tech CSE,Python|SQL|Excel|Power BI|Machine Learning,1.0,Data Analyst,Gurugram,Remote,550000.0
+C043,Dev Sharma,B.Tech IT,C++|Java|Python|DSA|System Design,3.0,Software Engineer,Delhi,On-site,850000.0
+C044,Ritika Kapoor,B.Tech AI,Python|Deep Learning|TensorFlow|PyTorch|Computer Vision,2.0,ML Engineer,Hyderabad,Remote,900000.0
+C045,Yash Mehta,B.Tech CSE,JavaScript|React|Node.js|MongoDB|TypeScript,2.0,Full Stack Developer,Gurugram,Hybrid,750000.0
+C046,Anjali Verma,MCA,Python|Django|Flask|SQL|Git,1.0,Python Developer,Jaipur,Remote,550000.0
+C047,Mohit Agarwal,B.Tech CSE,Python|SQL|AWS|Docker|Kubernetes,3.0,Cloud Developer,Delhi,Hybrid,850000.0
+C048,Neha Kapoor,B.Tech IT,Python|Statistics|SQL|Machine Learning|Pandas,2.0,Data Scientist,Bengaluru,Remote,750000.0
+C049,Shubham Singh,B.Tech CSE,Java|Spring Boot|SQL|AWS|Docker,2.0,Java Developer,Noida,Hybrid,700000.0
+C050,Priya Mehra,B.Tech AI,Python|Machine Learning|NLP|Deep Learning|SQL,1.0,AI Developer,Gurugram,Remote,700000.0
+sakshi_10,sakshi yadav,btech cse,python c java,0.0,ai developer,jaunpur,Hybrid,600000.0
+sakshi_1010,sakshi yadav,B.Tech-CSE,"python , c",0.0,software developer,jaunpur,Hybrid,500000.0
+sakshi-10,sakshiii,B.Tech-CSE,java,1.0,software developer,jaunpur,Hybrid,500000.0
+sakshi_1014,sakshi,B.Tech-CSE,"c , java",0.8,software developer,jaunpur,Hybrid,600000.0
+sakk_10,sakshi,btech,"c , java",2.0,ai developer,jaunpur,On-site,2.0
+sakshi_100,sakshi yadav,B.Tech-CSE,"c , java , python",2.1,java developer,jaipur,Remote,0.0
+radha_10,radha,B.Tech-CSE,"ai, c, css, data analysis, data science, github, html, java, ml, python, sql",3.0,software developer,jaunpur,Hybrid,6000000.0
+radha_100,radhaa,B.Tech-CSE,"ai, c, css, data analysis, data science, github, html, java, machine learning, ml, nlp, numpy, pandas, python, react, react.js, scikit-learn, sql",4.0,software developer,jaunpur,Hybrid,0.0
+sneha_10,sneha singh,B.Tech-CSE,"ai, c, css, data analysis, data science, github, html, java, ml, python, sql",4.0,software developer,jaipur,On-site,6000000.0

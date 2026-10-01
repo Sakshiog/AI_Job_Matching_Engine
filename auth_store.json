@@ -1,0 +1,24 @@
+{
+    "sakshi-10": {
+        "salt": "5804b9b86dc95d5ae9d870a9ec528c7d",
+        "hash": "92dd47d3b687839986e3541fdcc0a050b2dfb9a507828b52d246af6b87897037"
+    },
+    "sakshi_1014": {
+        "password_hash": "a550101f702f7bcd59512e988f53340ac5d2c03b740652909ac00baf223b0b59"
+    },
+    "sakk_10": {
+        "password_hash": "a550101f702f7bcd59512e988f53340ac5d2c03b740652909ac00baf223b0b59"
+    },
+    "sakshi_100": {
+        "password_hash": "a550101f702f7bcd59512e988f53340ac5d2c03b740652909ac00baf223b0b59"
+    },
+    "radha_10": {
+        "password_hash": "5432b60f9da6912c79487a91b61a9eee811b5ff635a0120cb6d8f3025f5f8777"
+    },
+    "radha_100": {
+        "password_hash": "51109a876440a8e570ebaa80a6099a8467a734a1ae14d8f122cb8a1d787132ba"
+    },
+    "sneha_10": {
+        "password_hash": "a404c0b86388e9fe576d398b1866945c9228e2ebcc3f62dea7cad19c9a332646"
+    }
+}
